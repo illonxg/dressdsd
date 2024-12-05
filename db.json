@@ -14,6 +14,13 @@
         "sirname": "Petrenko",
         "photo_url": "https://raw.githubus...",
         "balance": 500
+    },
+    {
+        "id": 3,
+        "name": "lays",
+        "sirname": "crips",
+        "photo_url": "https://raw.githubus...",
+        "price": 600
     }
 ]
    
