@@ -14,7 +14,9 @@
         "sirname": "Petrenko",
         "photo_url": "https://raw.githubus...",
         "balance": 500
-    },
+    }
+   ],
+   "products": [
     {
         "id": 3,
         "name": "lays",
@@ -22,7 +24,7 @@
         "photo_url": "https://raw.githubus...",
         "price": 600
     }
-]
+   ]
    
 
 }
