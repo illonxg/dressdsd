@@ -46,8 +46,8 @@
 
     {
         "id": 6,
-        "description": "vip server",
-        "sirname": "dress to impress",
+        "name": "vip server",
+        "description": "dress to impress",
         "photo_url": "https://ih1.redbubble.net/image.5627781972.2353/st,small,507x507-pad,600x600,f8f8f8.jpg",
         "price": 300
         
