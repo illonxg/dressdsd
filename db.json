@@ -18,8 +18,8 @@
 
     {
         "id": 3,
-        "description": "permanent vip",
-        "sirname": "dress to impress",
+        "name": "permanent vip",
+        "description": "dress to impress",
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8DRt48l1Poq9D77dASxSKhB96lXGFOlAPDA&s",
         "price": 1000
         
@@ -36,8 +36,8 @@
 
     {
         "id": 5,
-        "description": "run faster",
-        "sirname": "dress to impress",
+        "name": "run faster",
+        "description": "dress to impress",
         "photo_url": "https://tr.rbxcdn.com/180DAY-d19392a47dcb5238e7677603bb223eb0/420/420/Image/Png/noFilter",
         "price": 200
         
